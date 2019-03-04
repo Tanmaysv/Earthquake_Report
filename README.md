@@ -1,5 +1,4 @@
 Quake Report App
-===================================
 
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
@@ -50,3 +49,8 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# Earthquake_Report
+
+The app gives a list of Earthquakes along with their location and magnitude of the earthquake.
+
